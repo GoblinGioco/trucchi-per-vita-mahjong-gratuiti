@@ -1,0 +1,22 @@
+{
+  "name": "vita-mahjong-solver-tools",
+  "version": "1.0.4",
+  "description": "An open-source algorithm and matrix solver utility written in JavaScript to analyze tile patterns and optimize matching structures in Mahjong-style board games.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "start": "node index.js",
+    "build": "echo \"Optimizing assets...\" && exit 0"
+  },
+  "keywords": [
+    "mahjong",
+    "matrix-solver",
+    "tile-matching",
+    "game-analytics",
+    "algorithm-optimization"
+  ],
+  "author": "OpenSource Contributor",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
