@@ -100,6 +100,3 @@ Avere l'opportunità di affrontare ogni singolo schema del tabellone con la cert
 
 </div>
 
-<h1>⬆️ ⬆️ ⬆️</h1>
-
-</div>
