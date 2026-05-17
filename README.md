@@ -32,7 +32,7 @@ Immagina solo cosa significa giocare avendo a disposizione *monete illimitate* e
 </a>
 </h1>
 
-</div>>
+</div>
 
 ---
 
@@ -98,7 +98,7 @@ Avere l'opportunità di affrontare ogni singolo schema del tabellone con la cert
 </a>
 </h1>
 
-</div>>
+</div>
 
 <h1>⬆️ ⬆️ ⬆️</h1>
 
